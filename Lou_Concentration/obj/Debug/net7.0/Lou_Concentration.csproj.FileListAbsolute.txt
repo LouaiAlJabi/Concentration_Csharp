@@ -1,0 +1,15 @@
+/Users/louai.aijabi/Projects/Lou_Concentration/Lou_Concentration/obj/Debug/net7.0/Lou_Concentration.csproj.AssemblyReference.cache
+/Users/louai.aijabi/Projects/Lou_Concentration/Lou_Concentration/obj/Debug/net7.0/Lou_Concentration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/louai.aijabi/Projects/Lou_Concentration/Lou_Concentration/obj/Debug/net7.0/Lou_Concentration.AssemblyInfoInputs.cache
+/Users/louai.aijabi/Projects/Lou_Concentration/Lou_Concentration/obj/Debug/net7.0/Lou_Concentration.AssemblyInfo.cs
+/Users/louai.aijabi/Projects/Lou_Concentration/Lou_Concentration/obj/Debug/net7.0/Lou_Concentration.csproj.CoreCompileInputs.cache
+/Users/louai.aijabi/Projects/Lou_Concentration/Lou_Concentration/bin/Debug/net7.0/Lou_Concentration
+/Users/louai.aijabi/Projects/Lou_Concentration/Lou_Concentration/bin/Debug/net7.0/Lou_Concentration.deps.json
+/Users/louai.aijabi/Projects/Lou_Concentration/Lou_Concentration/bin/Debug/net7.0/Lou_Concentration.runtimeconfig.json
+/Users/louai.aijabi/Projects/Lou_Concentration/Lou_Concentration/bin/Debug/net7.0/Lou_Concentration.dll
+/Users/louai.aijabi/Projects/Lou_Concentration/Lou_Concentration/bin/Debug/net7.0/Lou_Concentration.pdb
+/Users/louai.aijabi/Projects/Lou_Concentration/Lou_Concentration/obj/Debug/net7.0/Lou_Concentration.dll
+/Users/louai.aijabi/Projects/Lou_Concentration/Lou_Concentration/obj/Debug/net7.0/refint/Lou_Concentration.dll
+/Users/louai.aijabi/Projects/Lou_Concentration/Lou_Concentration/obj/Debug/net7.0/Lou_Concentration.pdb
+/Users/louai.aijabi/Projects/Lou_Concentration/Lou_Concentration/obj/Debug/net7.0/Lou_Concentration.genruntimeconfig.cache
+/Users/louai.aijabi/Projects/Lou_Concentration/Lou_Concentration/obj/Debug/net7.0/ref/Lou_Concentration.dll
