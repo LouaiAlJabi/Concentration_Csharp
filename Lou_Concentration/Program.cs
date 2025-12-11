@@ -204,11 +204,9 @@ public class Concentration
                 {
                     if (randomboard[i, j] == randomboard[B - 1, A - 1])
                     {
-                        Console.WriteLine("boob1"); //debug
                         if (gamestate[Y - 1, X - 1] == randomboard[B - 1, A - 1])
                         {
                             gamestate[i, j] = randomboard[B - 1, A - 1];
-                            Console.WriteLine("boob2"); //debug
                             randomboard[B - 1, A - 1] = '(';
                             quit = true;
                             break;
